@@ -8,6 +8,7 @@ namespace FirstcoreProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("for jenkins");
             System.Console.WriteLine("I am in .net project");
             var ob = new Addition();
             ob.display();
